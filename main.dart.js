@@ -45184,7 +45184,7 @@ if(s.f!=null)A.iV(s)},
 $S:5}
 A.anw.prototype={
 $2(a,b){var s=null,r=A.L(a).p3.f,q=this.a,p=t.p
-return A.bU(A.a([A.bf(s,A.bU(A.a([A.ci(B.I,A.a([A.bF("Cowchain FARM",6,B.P,s,s,r==null?s:r.e2(B.i,B.J),s,s),new A.c9(new A.anu(q,b),s)],p),B.bT,B.I,16,16)],p),B.bt,B.ae,B.D),B.l,s,s,B.f5,s,s,B.di,s),B.hw,new A.xW(new A.anv(q,b),s,s,t.H3),B.cT],p),B.y,B.ae,B.D)},
+return A.bU(A.a([A.bf(s,A.bU(A.a([A.ci(B.I,A.a([A.bF("Cowchain AUCTION",6,B.P,s,s,r==null?s:r.e2(B.i,B.J),s,s),new A.c9(new A.anu(q,b),s)],p),B.bT,B.I,16,16)],p),B.bt,B.ae,B.D),B.l,s,s,B.f5,s,s,B.di,s),B.hw,new A.xW(new A.anv(q,b),s,s,t.H3),B.cT],p),B.y,B.ae,B.D)},
 $S:42}
 A.anu.prototype={
 $1(a){var s,r,q=this.b.b
