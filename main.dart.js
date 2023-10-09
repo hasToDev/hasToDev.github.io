@@ -46267,52 +46267,60 @@ p=p==null?q:p.b6(B.i)}else{p=A.L(a).p3.z
 p=p==null?q:p.b6(B.i)}p=A.bf(B.K,A.bF(r.c,q,q,q,q,p,q,q),B.l,q,B.C7,q,q,q,B.or,q)
 return A.aDS(new A.zd(p,B.a4,new A.bT(q,q,q,B.BT,q,r.r,B.W),q),r.f,o)}}
 A.oL.prototype={
-I(a){var s,r,q,p,o,n=this,m=null,l="AUCTIONED",k={},j=k.a="OPEN",i=n.d,h=i.z
-h===$&&A.b()
-s=h-n.e
-if(s<0){k.a="CLOSED"
-j=n.c
-h=i.x
-h===$&&A.b()
-h=h.a
-h===$&&A.b()
-h=j===h.b
-if(h){r=i.r
+I(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="AUCTIONED",f={},e=f.a="OPEN",d=i.d,c=d.z
+c===$&&A.b()
+s=c-i.e
+c=s<0
+if(c){f.a="CLOSED"
+e=i.c
+r=d.x
 r===$&&A.b()
-r=j!==r.b}else r=!1
-if(r){k.a="WON"
-r="WON"}else r="CLOSED"
-if(!h){h=i.r
-h===$&&A.b()
-h=j===h.b
-j=h}else j=!1
-if(j){k.a=l
-j=l}else j=r}k.b=null
-if(j==="CLOSED")k.b=B.cl
-if(j==="WON"||j==="AUCTIONED")k.b=B.b1
-k.c=B.nB
-j=i.r
-j===$&&A.b()
-q=j.b
-if(n.c===q)k.c=B.F8
-j=i.y
-j===$&&A.b()
-p=j.length
-p=p!==0?p:0
-if(q==null)q="-"
-j=i.x
-j===$&&A.b()
-j=j.a
-j===$&&A.b()
-o=j.b
-if(o==null)o="-"
-if(q!=="-"&&o!=="-"&&q===o)o="-"
-if(o!=="-")o=B.c.V(o,0,5)+B.c.bM(o,o.length-5)
-j=i.c
-j===$&&A.b()
-i=A.L(a).p3.w
-h=t.p
-return A.bf(m,A.bU(A.a([A.bf(m,A.c9(B.E,A.a([A.bF(j,3,B.P,m,m,i==null?m:i.b6(B.k7),m,m)],h),B.Y,B.E,0,0),B.l,m,m,B.n2,m,m,B.Gi,600),new A.ay(B.Gw,A.c9(B.aI,A.a([A.bf(m,A.m2(B.ih,A.a([new A.c6(new A.a19(k),m),new A.c6(new A.a1a(n),m)],h),B.aa,B.c7),B.l,m,m,B.n2,m,m,m,60),A.bf(m,new A.c6(new A.a1b(n),m),B.l,m,m,B.n6,m,m,m,40),A.br(new A.ca(new A.a1c(n),m),m,100),A.br(A.c9(B.E,A.a([new A.ca(new A.a1d(n),m)],h),B.Y,B.E,0,0),m,100),A.br(A.c9(B.E,A.a([A.Cc(150,m,"BID NUMBER",B.e.k(p))],h),B.Y,B.E,0,0),m,100),A.br(A.c9(B.E,A.a([A.Cc(150,m,"HIGHEST BIDDER",o)],h),B.Y,B.E,0,0),m,100),A.br(A.c9(B.E,A.a([A.Cc(150,m,"COUNTDOWN",B.e.k(s))],h),B.Y,B.E,0,0),m,100),A.br(new A.ca(new A.a1e(k),m),m,100),A.bf(m,new A.ca(new A.a1f(k,n),m),B.l,m,m,m,m,m,B.Gj,100)],h),B.bT,B.aI,20,20),m)],h),B.bt,B.O,B.D),B.l,m,m,B.n1,m,B.Gc,m,m)}}
+r=r.a
+r===$&&A.b()
+r=e===r.b
+if(r){q=d.r
+q===$&&A.b()
+q=e!==q.b}else q=!1
+if(q){f.a="WON"
+q="WON"}else q="CLOSED"
+if(!r){r=d.r
+r===$&&A.b()
+r=e===r.b
+e=r}else e=!1
+if(e){f.a=g
+e=g}else e=q}f.b=null
+if(e==="CLOSED")f.b=B.cl
+if(e==="WON"||e==="AUCTIONED")f.b=B.b1
+f.c=B.nB
+e=d.r
+e===$&&A.b()
+p=e.b
+if(i.c===p)f.c=B.F8
+e=d.y
+e===$&&A.b()
+o=e.length
+o=o!==0?o:0
+if(p==null)p="-"
+e=d.x
+e===$&&A.b()
+e=e.a
+e===$&&A.b()
+n=e.b
+if(n==null)n="-"
+if(p!=="-"&&n!=="-"&&p===n)n="-"
+if(n!=="-")n=B.c.V(n,0,5)+B.c.bM(n,n.length-5)
+e=d.c
+e===$&&A.b()
+d=A.L(a).p3.w
+r=t.p
+d=A.bf(h,A.c9(B.E,A.a([A.bF(e,3,B.P,h,h,d==null?h:d.b6(B.k7),h,h)],r),B.Y,B.E,0,0),B.l,h,h,B.n2,h,h,B.Gi,600)
+e=A.bf(h,A.m2(B.ih,A.a([new A.c6(new A.a19(f),h),new A.c6(new A.a1a(i),h)],r),B.aa,B.c7),B.l,h,h,B.n2,h,h,h,60)
+q=A.bf(h,new A.c6(new A.a1b(i),h),B.l,h,h,B.n6,h,h,h,40)
+m=A.br(new A.ca(new A.a1c(i),h),h,100)
+l=A.br(A.c9(B.E,A.a([new A.ca(new A.a1d(i),h)],r),B.Y,B.E,0,0),h,100)
+k=A.br(A.c9(B.E,A.a([A.Cc(150,h,"BID NUMBER",B.e.k(o))],r),B.Y,B.E,0,0),h,100)
+j=A.br(A.c9(B.E,A.a([A.Cc(150,h,"HIGHEST BIDDER",n)],r),B.Y,B.E,0,0),h,100)
+return A.bf(h,A.bU(A.a([d,new A.ay(B.Gw,A.c9(B.aI,A.a([e,q,m,l,k,j,A.br(A.c9(B.E,A.a([A.Cc(150,h,"COUNTDOWN",c?"0":B.e.k(s))],r),B.Y,B.E,0,0),h,100),A.br(new A.ca(new A.a1e(f),h),h,100),A.bf(h,new A.ca(new A.a1f(f,i),h),B.l,h,h,h,h,h,B.Gj,100)],r),B.bT,B.aI,20,20),h)],r),B.bt,B.O,B.D),B.l,h,h,B.n1,h,B.Gc,h,h)}}
 A.a19.prototype={
 $2(a,b){var s=null,r=b.b
 r-=r*0.05
