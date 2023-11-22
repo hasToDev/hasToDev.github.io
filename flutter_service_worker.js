@@ -24,11 +24,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "fb0bd4c31c42ea8988661de059614a2a
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
-"canvaskit/canvaskit.wasm": "19d8b35640d13140fe4e6f3b8d450f04",
+"canvaskit/canvaskit.wasm": "42df12e09ecc0d5a4a34a69d7ee44314",
 "canvaskit/chromium/canvaskit.js": "96ae916cd2d1b7320fff853ee22aebb0",
-"canvaskit/chromium/canvaskit.wasm": "1165572f59d51e963a5bf9bdda61e39b",
+"canvaskit/chromium/canvaskit.wasm": "be0e3b33510f5b7b0cc76cc4d3e50048",
 "canvaskit/skwasm.js": "95f16c6690f955a45b2317496983dbe9",
-"canvaskit/skwasm.wasm": "d1fde2560be92c0b07ad9cf9acb10d05",
+"canvaskit/skwasm.wasm": "1a074e8452fe5e0d02b112e22cdcf455",
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
 "favicon-16x16.png": "7f742cf75026da3a2f1079a106367a16",
 "favicon-32x32.png": "9546c2c8af75d5e2a18f5883e8f59b4c",
@@ -39,11 +39,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "fb0bd4c31c42ea8988661de059614a2a
 "icons/Icon-512.png": "04385b7b92fc71afa51efec1a4f7a687",
 "icons/Icon-maskable-192.png": "ed00c8316c218ba6da6df0bab8760aff",
 "icons/Icon-maskable-512.png": "04385b7b92fc71afa51efec1a4f7a687",
-"index.html": "68aa1c6821c355083f244f9046f32c2c",
-"/": "68aa1c6821c355083f244f9046f32c2c",
-"main.dart.js": "3fd02e33397af2e12b8b2e79fa08fe5a",
+"index.html": "e3ec0f5b56b9f8032a18bb2ee5bb76f9",
+"/": "e3ec0f5b56b9f8032a18bb2ee5bb76f9",
+"main.dart.js": "c5896ebd083d8daf4241535f28986cd5",
 "manifest.json": "cbd8ce3e03e9aba687a3735bacc8ee55",
-"version.json": "3e162d5433b22ca2f1691c3d26182608"};
+"version.json": "fb404eb2646026a33a47bb59204c7b0d"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
